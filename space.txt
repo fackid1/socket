@@ -1,0 +1,6 @@
+netstat -a -b -n
+34.192.53.253
+
+HEROKU fake id cred: 
+horiley735@serohiv.com
+ytrewq@4321
